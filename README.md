@@ -1,7 +1,6 @@
 ## PolarFire Evaluation Kit RISC-V Designs for Libero v12.1
 
 Sample Mi-V Libero projects for the PolarFire (MPF300T) Evaluation Kit.
-sdfsfsfsdfsdfsd
 
 To get your design download or clone this repository. The files consist of .tcl file that is the main script that builds the design and support files that are called by it to provide constraints and components for the design. Follow the instructions below to build your own design or alternatively use the pre-generated Programming Files in this repository.
 
